@@ -1,0 +1,2947 @@
+fileFormatVersion: 2
+guid: be15fb7f7b09df7428064c1894b37967
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedTower_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 964
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6170d5b55e2c6478b25bb9cc72d2ad
+      internalID: -1885566581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKing_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 964
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15fcfbc4e5fc0f4883f70f6af405b41
+      internalID: 746305072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedElephant_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 964
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc37bd270c056e046aacecd019381e8b
+      internalID: -1478126372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueen_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 964
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4617da49840c0ae4aaff6e77f49559f0
+      internalID: -1417529599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedHourse_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 964
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f096cd0b6bf94596f4d52c8f6ee99
+      internalID: -751299109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPawn_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 964
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7f73c08c86ce47bb0bf584be0dd3e
+      internalID: -3335195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePawn_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 964
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4cd385958303e40a8f33bb66657deb
+      internalID: 353515089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueHourse_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 964
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1018c9ea23c546a8b43654168c154
+      internalID: 1105038518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueQueen_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 964
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e09f2261827364cbeb1223bbb226cd
+      internalID: 1771206907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueElephant_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 964
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0114d124ba4944f912cacf896052ee
+      internalID: -415527758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueKing_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 964
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3381c9918dab4495d84b988a25888
+      internalID: 1939012367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTower_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 964
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5e8d2c67cfbf9469327f045fb27dfc
+      internalID: -2111883826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTower_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 924
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26233dd6bb6e41e41a20428a3064f1f5
+      internalID: 1285899903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKing_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 924
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8359aae49860dd42a1db926ecbca3f1
+      internalID: -1103868239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedElephant_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 924
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e53450cb558914d99050944f53da74
+      internalID: 1093544297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueen_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 924
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1020c146adecd74da5b9ecbe8e7db58
+      internalID: -1678892574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedHourse_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 924
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5002d1ced5792c4b844a2de6d5b3cb9
+      internalID: -129225667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPawn_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 924
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f97d595db1ad14daaaa3223802a585
+      internalID: -1065930568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePawn_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 924
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df5418550023b4cb14b1718ba5ff91
+      internalID: 1297495912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueHourse_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 924
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352228ef8fd2df540a02536b31a3b5b8
+      internalID: -1103245996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueQueen_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 924
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9969ec5dcfe1543bc06c8fe7b5497c
+      internalID: 2017876420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueElephant_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad4252ba03f1e4194300c665af7a6e
+      internalID: 1967615595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueKing_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 924
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00dd7f64ec450b4e92fae64ac378ed3
+      internalID: 1599141946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTower_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 924
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb6f0cf80ad0864583069e4e5dc48d6
+      internalID: 671996924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTower_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 884
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322262b23d556654ea05b1608343175b
+      internalID: -914691302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKing_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 884
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725d488ab684ce547a5eeb821917d789
+      internalID: 434074906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedElephant_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 884
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ff7f159509bf4b8d7b70145ce813b
+      internalID: -2063090591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueen_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 884
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bef92c91d039a4b84e7ad263f593d1
+      internalID: -692715701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedHourse_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 884
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0907800d77739f843bcefc9ed02b1e04
+      internalID: -1608516571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPawn_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 884
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23f3f0ffc7afa40a58f9f7b1690046
+      internalID: 622579165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePawn_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 884
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83eda615f2b7b4bb58ea8ea6ea0de8
+      internalID: 320614402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueHourse_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 884
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9116a01e7f9a45c4d928d22027cf3743
+      internalID: -596131623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueQueen_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 884
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b82de41269d442918d2cee50bee77
+      internalID: 1709768119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueElephant_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 884
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393045f536df1674fbc648874ba974e7
+      internalID: -2056561205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueKing_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 884
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340079c6587f1e41a081ff9e522b9ca
+      internalID: 1830206639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTower_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 884
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e7713f7d494034480b1e25d75ca570
+      internalID: -1259563335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTower_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 844
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e707493892a412245870c9dd8aa9c604
+      internalID: 459971558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedKing_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 844
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d49d51166b16446a4db64fd62cd0c5
+      internalID: 874506076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedElephant_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 844
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962af87d0f16f054fa0bf99580cc12cc
+      internalID: 299464062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueen_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 844
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99190d0eb477c474292740d67f65ffda
+      internalID: -1962953437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedHourse_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 844
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6a2baa3d423474c87eea8c52ea1f5e
+      internalID: 1282533091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPawn_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 844
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b1e3c18009cc7428e583bc4345bdb6
+      internalID: 1901500161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BluePawn_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 844
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa52887bf8b2945b3b89a265f1ee4e
+      internalID: -1459183165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueHourse_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 844
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ace0739958cc984b9a8f3305b809ede
+      internalID: -1233964583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueQueen_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 844
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5875b333b96954298e1243ef77de1d
+      internalID: -559731761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueElephant_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 844
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da36127da2fbf354fb6411c2805ed3c8
+      internalID: -638539568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueKing_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 844
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86352d0673ef26469046f1928dd3c8d
+      internalID: 867502101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTower_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 844
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923785fd41535342a653e8875f5bd41
+      internalID: 1212548351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b53fb4196dc14797d5123c732ec06
+      internalID: 371299349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 784
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b275f5a05f08344a90c7b994edc960
+      internalID: 1143881759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 784
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de5f569437a475468215ead522c50f9
+      internalID: 168880500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_51
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 764
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0e4e5c2a2f02f479438176b5669618
+      internalID: -112844316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 768
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e3fa3d740b074ba956db4f04c0c67
+      internalID: 1995306282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 764
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ebdb8df0728054bb229078a53af93e
+      internalID: -1248902643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 785
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520302314bfa864b95303d8613d9471
+      internalID: 1618994487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 785
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146f8f428d7af604ab9cd7715336c930
+      internalID: -1152095846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_56
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 785
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09431976a303a024fb28a3f45b79a828
+      internalID: -1036342260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 656
+        width: 64
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d8d6792761d14fba09a88fea1b27d
+      internalID: -180344151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 790
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1117afda95be2646b7d98b8e36b1b24
+      internalID: 1278106357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_59
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 656
+        width: 64
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746c8ae6ccbfd24192104a0449b2a68
+      internalID: -800483605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_60
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 790
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe8f1b5d791eda43b649eef5562614d
+      internalID: -261772885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abca20913fbc1248af74a0313474b51
+      internalID: -1609866171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 764
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3f89b6b7d5914fa61a9266d6069e2
+      internalID: 708389211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 764
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df27c516e15c5de438b4134998378f57
+      internalID: 454485553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_64
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 769
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db7c019a7f254f42bb0e278e262cfeb
+      internalID: 1151837738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_65
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 769
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc984c3fe3fd7c488f93f1cd5561c54
+      internalID: 1983463232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_66
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 769
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff881d03fba0b5440b7715fd85f2c836
+      internalID: 815867044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_67
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 761
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941bdbbb576c52747aa96be45b40b077
+      internalID: 1138370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_68
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 761
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7651349b0ba14c84a9c677962fe46b2c
+      internalID: 767587555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04e4bf26c2fb5499e3777c724fbc18
+      internalID: -995679520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 744
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ca1ad8e4c9a944a8234dade8743b24
+      internalID: 2115158619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 744
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b7e5fc0039214281e5d834b18aad0
+      internalID: 1996704088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_72
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 724
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d261d48c19045f47b06e338714b688a
+      internalID: 1354903389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 745
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2170e19d593fa2c49ac991d4ba1f16c3
+      internalID: -472932039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 744
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ba84b9818bef44bee1b8545d6001f
+      internalID: 62023937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_75
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 753
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f51c4f1cccb242a38251133fc1637
+      internalID: -562993178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_76
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 753
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a308d6955cf594981b75c787cc9970
+      internalID: -2090280648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_77
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 753
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36660f5d340e92349bf79d86ac89ed09
+      internalID: 908677283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c1b17f9eaab94ab32e9e855083a39
+      internalID: -2014385476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 724
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc75e9cf8fe794a82612ae8e6a85c0
+      internalID: 2063556679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 724
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176db64535f327f48a11e61545a213d3
+      internalID: 1430940530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 724
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136b724d0cd4dd47a8b2d709240c757
+      internalID: 220552887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 724
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa446757584e01441ace21ae14b85a80
+      internalID: 1040344322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_83
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 737
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf21418ea0e7a048a0f3c1d8063a44f
+      internalID: -128008560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_84
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 737
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b7d38f94d0f1e42893415d48dfc2b9
+      internalID: -1134574307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_85
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 737
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb1ebdd20f00041b572882c5b203fa
+      internalID: -1261298550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_86
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 721
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c3c671b54d014a98d100e7d46e6f1
+      internalID: 2028309360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_87
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 721
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11178048121458a4a85d708df3389419
+      internalID: 2112405809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 721
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdee46ababc95e42822755ae9579857
+      internalID: -1108310889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ace923bb70e5284dafb7b5461e74948
+      internalID: 86619418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a443929ce639044b0ddfbbd29eb22e
+      internalID: 1208498159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 705
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530eb03f4342e3a409f3714b9a616275
+      internalID: 357062964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 694
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb191f9f147ed1d4fb10ebf842003137
+      internalID: -1706204075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 704
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223947f6836653498b7a83c234399ee
+      internalID: -389553419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_94
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 705
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e76e5252361e5649ae8e8b0ac716091
+      internalID: -9623275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_95
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 705
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600d73311f8736489a67867fb914440
+      internalID: -1432227205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_96
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 705
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91ff01f129edd64d8e839b98f3ad5a5
+      internalID: 1073017495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160da8ca6288a8246a2e7ba3f952cdf3
+      internalID: -1666198326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 685
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f3fad46e6b01e4ca1e9f2b1483e541
+      internalID: -531575334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 685
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ff823419e6c74a9325a26e2f38b85
+      internalID: -1586065919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_100
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 694
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f211cccddd609fc4da01f7ad79fd8853
+      internalID: 1157758232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_101
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 689
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158c14aa8a13e146bbaa2205367c2d0
+      internalID: 500083725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_102
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 689
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc970113303df9468b5c54c35e81aa6
+      internalID: 147458730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_103
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 689
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78e3b253ecb574b886774b940e6690
+      internalID: -1146247806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e32d813d7f3ef343ac49f6ecbc5805a
+      internalID: 1038203950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellWhite_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 665
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b82726330c05de4e9602a443e012590
+      internalID: 2076922892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CellBlack_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 665
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ee42e61e4d1ae45aa830a87895f589
+      internalID: 122484210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_107
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 673
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eee092ac84e424d90d22f5297b47f5
+      internalID: 593633981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_108
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 673
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d02e87ba7d60124aa667ff16e103347
+      internalID: 1785082900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_109
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 673
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eed0210132f034da107eab24762f78
+      internalID: -971904292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_110
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 657
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69412ac7338391e419050e386086b908
+      internalID: 889693950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 657
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e60e4277f8c2c4cb61ee2d9fb0d2db
+      internalID: 1595992880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_112
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 657
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b161437bc7f0c45be52c008b9d9dc4
+      internalID: 1922806681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d629db53a7e348aa9d8c8c6bbb091
+      internalID: -1390128826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_114
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 625
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a53bfcb4d4884c98f89b3a793bbd1
+      internalID: 657990352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_115
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 625
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9a23c522c61014196d13b3e45271bf
+      internalID: 932100717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_116
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 625
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74677e8b665c9454aa822237a978b132
+      internalID: -1205985331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dcaf2357383334b86f4871d559c790
+      internalID: 119848313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a208dce8434db4d9fa247da39268f0
+      internalID: -726558048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465daf5cfe8304447a6eb5b6a82f4c74
+      internalID: -360858574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9176ff7847301544c8d5f5b86cf760ec
+      internalID: -385028741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 789
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d73f33dedbe846903ef77a5dfcebc
+      internalID: 1755440728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 704
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5404f6b9350b9ab4ca7652e4a1fefc53
+      internalID: -324084780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 714
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d893b5b9bbfe6419cb99b6c5648bc9
+      internalID: -982038115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 714
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6e5b01427689545bd0e38944cf282f
+      internalID: 1678890273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 714
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9da45b7d6b09174383ed0367f9bf441
+      internalID: 944439212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedievalPack16x16_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 317
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a35f1aea2d55746b58bc56a5d12777
+      internalID: -16407010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlueElephant_1: -415527758
+      BlueElephant_2: 1967615595
+      BlueElephant_3: -2056561205
+      BlueElephant_4: -638539568
+      BlueHourse_1: 1105038518
+      BlueHourse_2: -1103245996
+      BlueHourse_3: -596131623
+      BlueHourse_4: -1233964583
+      BlueKing_1: 1939012367
+      BlueKing_2: 1599141946
+      BlueKing_3: 1830206639
+      BlueKing_4: 867502101
+      BluePawn_1: 353515089
+      BluePawn_2: 1297495912
+      BluePawn_3: 320614402
+      BluePawn_4: -1459183165
+      BlueQueen_1: 1771206907
+      BlueQueen_2: 2017876420
+      BlueQueen_3: 1709768119
+      BlueQueen_4: -559731761
+      BlueTower_1: -2111883826
+      BlueTower_2: 671996924
+      BlueTower_3: -1259563335
+      BlueTower_4: 1212548351
+      CellBlack_1: 168880500
+      CellBlack_2: 454485553
+      CellBlack_3: 1996704088
+      CellBlack_4: 1430940530
+      CellBlack_5: 357062964
+      CellBlack_6: -1586065919
+      CellBlack_7: 122484210
+      CellWhite_1: 1143881759
+      CellWhite_2: 708389211
+      CellWhite_3: 2115158619
+      CellWhite_4: 2063556679
+      CellWhite_5: 1208498159
+      CellWhite_6: -531575334
+      CellWhite_7: 2076922892
+      MedievalPack16x16_0: -324084780
+      MedievalPack16x16_1: -982038115
+      MedievalPack16x16_100: 1157758232
+      MedievalPack16x16_101: 500083725
+      MedievalPack16x16_102: 147458730
+      MedievalPack16x16_103: -1146247806
+      MedievalPack16x16_104: 1038203950
+      MedievalPack16x16_107: 593633981
+      MedievalPack16x16_108: 1785082900
+      MedievalPack16x16_109: -971904292
+      MedievalPack16x16_110: 889693950
+      MedievalPack16x16_111: 1595992880
+      MedievalPack16x16_112: 1922806681
+      MedievalPack16x16_113: -1390128826
+      MedievalPack16x16_114: 657990352
+      MedievalPack16x16_115: 932100717
+      MedievalPack16x16_116: -1205985331
+      MedievalPack16x16_117: 119848313
+      MedievalPack16x16_118: -726558048
+      MedievalPack16x16_119: -360858574
+      MedievalPack16x16_120: -385028741
+      MedievalPack16x16_121: 1755440728
+      MedievalPack16x16_2: 1678890273
+      MedievalPack16x16_3: 944439212
+      MedievalPack16x16_4: -16407010
+      MedievalPack16x16_48: 371299349
+      MedievalPack16x16_51: -112844316
+      MedievalPack16x16_52: 1995306282
+      MedievalPack16x16_53: -1248902643
+      MedievalPack16x16_54: 1618994487
+      MedievalPack16x16_55: -1152095846
+      MedievalPack16x16_56: -1036342260
+      MedievalPack16x16_57: -180344151
+      MedievalPack16x16_58: 1278106357
+      MedievalPack16x16_59: -800483605
+      MedievalPack16x16_60: -261772885
+      MedievalPack16x16_61: -1609866171
+      MedievalPack16x16_64: 1151837738
+      MedievalPack16x16_65: 1983463232
+      MedievalPack16x16_66: 815867044
+      MedievalPack16x16_67: 1138370446
+      MedievalPack16x16_68: 767587555
+      MedievalPack16x16_69: -995679520
+      MedievalPack16x16_72: 1354903389
+      MedievalPack16x16_73: -472932039
+      MedievalPack16x16_74: 62023937
+      MedievalPack16x16_75: -562993178
+      MedievalPack16x16_76: -2090280648
+      MedievalPack16x16_77: 908677283
+      MedievalPack16x16_78: -2014385476
+      MedievalPack16x16_81: 220552887
+      MedievalPack16x16_82: 1040344322
+      MedievalPack16x16_83: -128008560
+      MedievalPack16x16_84: -1134574307
+      MedievalPack16x16_85: -1261298550
+      MedievalPack16x16_86: 2028309360
+      MedievalPack16x16_87: 2112405809
+      MedievalPack16x16_88: -1108310889
+      MedievalPack16x16_89: 86619418
+      MedievalPack16x16_92: -1706204075
+      MedievalPack16x16_93: -389553419
+      MedievalPack16x16_94: -9623275
+      MedievalPack16x16_95: -1432227205
+      MedievalPack16x16_96: 1073017495
+      MedievalPack16x16_97: -1666198326
+      RedElephant_1: -1478126372
+      RedElephant_2: 1093544297
+      RedElephant_3: -2063090591
+      RedElephant_4: 299464062
+      RedHourse_1: -751299109
+      RedHourse_2: -129225667
+      RedHourse_3: -1608516571
+      RedHourse_4: 1282533091
+      RedKing_1: 746305072
+      RedKing_2: -1103868239
+      RedKing_3: 434074906
+      RedKing_4: 874506076
+      RedPawn_1: -3335195
+      RedPawn_2: -1065930568
+      RedPawn_3: 622579165
+      RedPawn_4: 1901500161
+      RedQueen_1: -1417529599
+      RedQueen_2: -1678892574
+      RedQueen_3: -692715701
+      RedQueen_4: -1962953437
+      RedTower_1: -1885566581
+      RedTower_2: 1285899903
+      RedTower_3: -914691302
+      RedTower_4: 459971558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
