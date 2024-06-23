@@ -153,7 +153,7 @@ public class GenericGrid
     }
 
     // Метод щоб позначити клітинку як червону
-    private void SetRedCell(int x, int y, bool value)
+    public void SetRedCell(int x, int y, bool value)
     {
         if (!IsOutsideBounds(x, y))
         {

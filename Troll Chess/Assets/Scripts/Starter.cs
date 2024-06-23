@@ -1,14 +1,16 @@
-using Gameplay;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+using Gameplay;
+
+
 public class Starter : MonoBehaviour
 {
     // Поле для зберігання префабу будівлі
     [SerializeField]
-    private GameObject[] _buildingPrefab;
+    private GameObject[] _cellPrefab;
 
     // Поле для зберігання батьківського об'єкта
     [SerializeField]
@@ -34,17 +36,19 @@ public class Starter : MonoBehaviour
 
     [SerializeField] private Tilemap tilemap;
 
-    [SerializeField]
-    private RectTransform _buttonContainer;
     
 
     private Builder _builder;
-    
+    private int width=16, height=16;
 
     void Start()
     {
+        
+
         // Ініціалізація сітки
-        _grid = new GenericGrid(_width, _height, _cellSize, _origin);
+        _origin.x = width/2*-1* _cellSize;
+        _origin.y = height/2*-1* _cellSize;
+        _grid = new GenericGrid(16, 16, _cellSize, _origin);
 
         // Додавання компонента Builder і його ініціалізація
         _builder = gameObject.AddComponent<Builder>();
@@ -54,15 +58,24 @@ public class Starter : MonoBehaviour
         BoundsInt bounds = tilemap.cellBounds;
         TileBase[] allTiles = tilemap.GetTilesBlock(bounds);
 
-
+        SetRedBox();
     }
 
 
-    public void SetRedCells(List<Vector2> points)
+    public void SetRedBox()
     {
-        _grid.SetRedBoxes(points);
+        for (int i = 0; i < width; i++)
+        {
+            for (int j = 0; j < height; j++)
+            {
+                if(i< (width-_width)/2 ||
+                    i >= _width+ (width - _width) / 2 ||
+                    j < (height - _height)/2 ||
+                    j >= _height+ (height - _height) / 2)
+                    _grid.SetRedCell(i,j,true);
+            }
+        }
     }
-
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.white;
