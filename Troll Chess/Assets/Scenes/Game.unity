@@ -527,13 +527,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _cellPrefab:
-  - {fileID: 2601413859387895839, guid: dfea7823564cda84cb0841501c855ea6, type: 3}
   - {fileID: 2601413859387895839, guid: bb476b9f1832b59489fa20931359d214, type: 3}
+  - {fileID: 2601413859387895839, guid: dfea7823564cda84cb0841501c855ea6, type: 3}
   _parent: {fileID: 1137072316}
-  _width: 2
-  _height: 2
   _cellSize: 1
-  _origin: {x: 0, y: 0}
   tilemap: {fileID: 468455447}
 --- !u!1 &1882833292
 GameObject:

@@ -152,9 +152,16 @@ public class GenericGrid
         return _grid[x, y].IsRedCell;
     }
 
+    public void SetAllWhiteCell(int x, int y)
+    {
+        if (!IsOutsideBounds(x, y))
+            _grid[x, y].IsRedCell = false;
+    }
+
     // Метод щоб позначити клітинку як червону
     public void SetRedCell(int x, int y, bool value)
     {
+        
         if (!IsOutsideBounds(x, y))
         {
             _grid[x, y].IsRedCell = value;
