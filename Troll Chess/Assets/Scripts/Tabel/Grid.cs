@@ -167,6 +167,13 @@ public class GenericGrid
             _grid[x, y].IsRedCell = value;
         }
     }
+    public void UpdateGrid(int width, int height, float cellSize, Vector2 origin)
+    {
+        _width = width;
+        _height = height;
+        _cellSize = cellSize;
+        _origin = origin;
+    }
 
     private void SetGameObject(int x, int y, GameObject gameObject)
     {

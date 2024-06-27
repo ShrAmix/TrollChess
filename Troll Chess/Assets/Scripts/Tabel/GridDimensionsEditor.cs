@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-[CustomEditor(typeof(TabelController))]
+//[CustomEditor(typeof(TabelController))]
 public class GridDimensionsEditor : Editor
 {
-    public override void OnInspectorGUI()
+   /* public override void OnInspectorGUI()
     {
         // Получаем ссылку на целевой объект
         TabelController gridDimensions = (TabelController)target;
@@ -52,7 +52,12 @@ public class GridDimensionsEditor : Editor
             EditorUtility.SetDirty(target);
         }
 
-        TabelController boardManager = (TabelController)target;
+        
+        
+        
+        
+        
+        /*TabelController boardManager = (TabelController)target;
 
         if (boardManager == null)
         {
@@ -116,5 +121,6 @@ public class GridDimensionsEditor : Editor
         {
             EditorUtility.SetDirty(target);
         }
-    }
+    }*/
+
 }
